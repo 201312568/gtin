@@ -30,6 +30,9 @@
     "utilities",
     "valid"
   ],
+  "engines": {
+    "node": ">=6.10.3"
+  },
   "author": "Ivan K <ivan@sq10.net>",
   "license": "MIT",
   "bugs": {
